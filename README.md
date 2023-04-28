@@ -1,4 +1,4 @@
-# Slider
+# Slider - Recrutation Task
 
 
 Link to the webiste
